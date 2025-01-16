@@ -1,4 +1,4 @@
-# Pie-in-the-Sky-IPL-Fantasy-Cricket-App
+# Pie-in-the-Sky-IPL-Fantasy-Cricket-App Using SQL
 The app enables users to predict match outcomes, place bids, and track performance through interactive leaderboards. Designed to provide an engaging user experience, the project incorporates robust data management and analytics capabilities, offering insights into match statistics, bidder performance, and team standings.
 
 * User Registration and Management: Secure user authentication and seamless registration process.
